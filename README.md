@@ -1,2 +1,3 @@
 # Redwine quality prediciton 
-This dataset has the fundamental features which are responsible for affecting the quality of the wine. By the use of several Machine learning models, we will predict the quality of the wine.
+Developed a machine learning model to predict red wine quality based on its chemical properties.
+
